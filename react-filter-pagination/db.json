@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "artNumber": 12,
+      "name": "Bodring \"Orzu\", kg",
+      "brand": "orzu",
+      "weight": 1,
+      "quantity": 200,
+      "price": 39990,
+      "imageSrc": "https://makromarket.uz/storage/19633/conversions/61dfc275a057d_%D0%BE%D0%B3%D1%83%D1%80%D1%86%D1%8B_%D0%BE%D1%80%D0%B7%D1%83-thumb.jpg"
+    },
+    {
+      "id": 2,
+      "artNumber": 15,
+      "name": "\"GOLDEN\" navli olma mevasi', kg",
+      "brand": "golden",
+      "weight": 1,
+      "quantity": 180,
+      "price": 14900,
+      "imageSrc": "https://makromarket.uz/storage/21593/conversions/62677ceb20cc0_%D1%8F%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8-thumb.jpg"
+    },
+    {
+      "id": 3,
+      "artNumber": 14,
+      "name": "Bug'doy uni \"Makfa\" oliy nav, 2 kg",
+      "brand": "makfa",
+      "weight": 2,
+      "quantity": 200,
+      "price": 26990,
+      "imageSrc": "https://makromarket.uz/storage/9761/conversions/1000025548-thumb.jpg"
+    },
+    {
+      "id": 4,
+      "artNumber": 12,
+      "name": "Spagetti \"Rollton\", gr",
+      "brand": "rollton",
+      "weight": 0.400,
+      "quantity": 200,
+      "price": 16490,
+      "imageSrc": "https://makromarket.uz/storage/10775/conversions/1000060178-thumb.jpg"
+    },
+    {
+      "id": 5,
+      "artNumber": 19,
+      "name": "\"Orzu\" osh tuzi, kg",
+      "brand": "orzu",
+      "weight": 1,
+      "quantity": 200,
+      "price": 3490,
+      "imageSrc": "https://makromarket.uz/storage/25356/conversions/62d00714f3870_%D1%81%D0%BE%D0%BB%D1%8C-%D0%9E%D1%80%D0%B7%D1%83-%D0%BE%D1%88-%D1%82%D1%83%D0%B7%D0%B8-1-%D0%BA%D0%B3-thumb.jpg"
+    },
+    {
+      "id": 6,
+      "artNumber": 12,
+      "name": "Pishevaya \"Orzu\" osh tuzi, kg",
+      "brand": "orzu",
+      "weight": 1,
+      "quantity": 200,
+      "price": 2990,
+      "imageSrc": "https://makromarket.uz/storage/25673/conversions/62da85d229b9b_%D1%81%D0%BE%D0%BB%D1%8C-%D0%9E%D1%80%D0%B7%D1%83-1-%D0%BA%D0%B3-thumb.jpg"
+    },
+    {
+      "id": 7,
+      "artNumber": 26,
+      "name": "\"Pepsi\", 1 l",
+      "brand": "pepsi",
+      "weight": 1,
+      "quantity": 200,
+      "price": 8990,
+      "imageSrc": "https://makromarket.uz/storage/13341/conversions/1000017466-thumb.jpg"
+    },
+    {
+      "id": 8,
+      "artNumber": 26,
+      "name": "\"Pepsi\", 449 ml",
+      "brand": "pepsi",
+      "weight": 0.449,
+      "quantity": 200,
+      "price": 8490,
+      "imageSrc": "https://makromarket.uz/storage/13359/conversions/1000074259-thumb.jpg"
+    },
+    {
+      "id": 9,
+      "artNumber": 26,
+      "name": "\"Pepsi\", 250 ml",
+      "brand": "pepsi",
+      "weight": 0.250,
+      "quantity": 200,
+      "price": 4990,
+      "imageSrc": "https://makromarket.uz/storage/13353/conversions/1000017516-thumb.jpg"
+    },
+
+
+    {
+      "id": 10,
+      "artNumber": 26,
+      "name": "Kolbasa \"DELMARK\", 200g",
+      "brand": "delmark",
+      "weight": 0.200,
+      "quantity": 200,
+      "price": 4990,
+      "imageSrc": "https://makromarket.uz/storage/11549/conversions/1000073758-thumb.jpg"
+    },
+    {
+      "id": 11,
+      "artNumber": 26,
+      "name": "\"SHERIN\" extra varenaya, 400g",
+      "brand": "sherin",
+      "weight": 0.400,
+      "quantity": 200,
+      "price": 4990,
+      "imageSrc": "https://makromarket.uz/storage/11555/conversions/1000026760-thumb.jpg"
+    },
+    {
+      "id": 12,
+      "artNumber": 26,
+      "name": "\"SHERIN\" varenaya, 700g",
+      "brand": "sherin",
+      "weight": 0.700,
+      "quantity": 200,
+      "price": 4990,
+      "imageSrc": "https://makromarket.uz/storage/11557/conversions/1000067840-thumb.jpg"
+    },
+    {
+      "id": 13,
+      "artNumber": 26,
+      "name": "Molochnaya kolbasa \"ROZMETOV\", 400g",
+      "brand": "rozmetov",
+      "weight": 0.400,
+      "quantity": 200,
+      "price": 4990,
+      "imageSrc": "https://makromarket.uz/storage/11567/conversions/1000063407-thumb.jpg"
+    },
+    {
+      "id": 14,
+      "artNumber": 26,
+      "name": "\"ROZMETOV\" varenaya, 700g",
+      "brand": "rozmetov",
+      "weight": 0.700,
+      "quantity": 200,
+      "price": 4990,
+      "imageSrc": "https://makromarket.uz/storage/19757/conversions/61e7fc5df28ad_%D0%92%D0%B0%D1%80%D0%B5%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B0-EXTRA-%D0%BE%D1%82-ROZMETOV-400%D0%B3%D1%80-thumb.jpg"
+    },
+    {
+      "id": 15,
+      "artNumber": 26,
+      "name": "\"TOXTANIYOZ\" sosiskalari, 500g",
+      "brand": "toxtaniyoz",
+      "weight": 0.500,
+      "quantity": 200,
+      "price": 35990,
+      "imageSrc": "https://makromarket.uz/storage/11575/conversions/1000053902-thumb.jpg"
+    }
+  ]
+}
